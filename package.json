@@ -1,0 +1,17 @@
+{
+  "name": "great.rps",
+  "version": "1.1.1",
+  "description": "rock, paper, scissors game",
+  "main": "index.js",
+  "scripts": {
+    "test": "rps"
+  },
+  "keywords": [
+    "games"
+  ],
+  "author": "NKUNDABAGENZI Jeremy",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
